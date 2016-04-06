@@ -1,1 +1,0 @@
-/usr/bin/c++    -std=c++11 -pedantic -Wextra -Wall -o3    CMakeFiles/ClientPTPd.dir/udpClientNonblock.cpp.o  -o ClientPTPd -rdynamic gpioLib/libgpioLib.a -lpthread 
