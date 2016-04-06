@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/myhay/PTPdComparation/client/gpioLib/SimpleGPIO.cpp
+thread
+-
+iostream
+-
+unistd.h
+-
+fcntl.h
+-
+poll.h
+-
+SimpleGPIO.h
+/home/myhay/PTPdComparation/client/gpioLib/SimpleGPIO.h
+
+/home/myhay/PTPdComparation/client/gpioLib/SimpleGPIO.h
+string
+-
+

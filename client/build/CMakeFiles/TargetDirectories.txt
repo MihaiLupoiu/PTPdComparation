@@ -1,0 +1,2 @@
+/home/myhay/PTPdComparation/client/build/CMakeFiles/ClientPTPd.dir
+/home/myhay/PTPdComparation/client/build/gpioLib/CMakeFiles/gpioLib.dir
