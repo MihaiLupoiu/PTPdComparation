@@ -10,7 +10,7 @@ The second part is the Client. The IP and PORT of the server the clients has to 
 
 ![Alt text](DSC_0662.JPG?raw=true "Optional Title")
 
-In order to compilate the code you have to be in a UNIX sistem, enter en client or server folder and do:
+In order to compilate the code you have to be in a UNIX sistem, enter en client and do:
 
 ```
 mkdir build
@@ -18,6 +18,8 @@ cd build
 cmake ..
 make
 ```
+
+For the server you just have to enter in the server folder and do `make`.
 
 # TO DO:
 - Change the sending tipe to broadcast.
